@@ -12,6 +12,9 @@ length = len(a_list)
 last = a_list[length -1]
 
 assert last == 0
+first = a_list[0]
+assert first == 2
+
 
 
 
